@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/gaas/static/css/main.96f850e4.css",
-    "main.js": "/gaas/static/js/main.3417f7cf.js",
-    "static/media/home-banner.png": "/gaas/static/media/home-banner.1694d0975ce98d83a0bb.png",
-    "static/media/features.webp": "/gaas/static/media/features.01610b92b9e397eceecc.webp",
-    "static/media/home-right.webp": "/gaas/static/media/home-right.35ce57191c509855422e.webp",
-    "static/media/trend.webp": "/gaas/static/media/trend.69a697daf76dd13a6928.webp",
-    "static/media/impress.webp": "/gaas/static/media/impress.47565851eaf4a91bcf54.webp",
-    "static/media/trend-banner.webp": "/gaas/static/media/trend-banner.38e02844d3e363b1c5cc.webp",
-    "static/media/feedback.webp": "/gaas/static/media/feedback.18601b9dff29fed000dd.webp",
-    "static/media/slick.svg": "/gaas/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/gaas/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/gaas/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/logo.webp": "/gaas/static/media/logo.62980193871dca2d1bd9.webp",
-    "static/media/slick.woff": "/gaas/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/xlogo.webp": "/gaas/static/media/xlogo.e747f5b7af2f86ed42b2.webp",
-    "static/media/borderxl.webp": "/gaas/static/media/borderxl.2c1abbaa4ce8c137003c.webp",
-    "index.html": "/gaas/index.html",
-    "static/media/borderlg.webp": "/gaas/static/media/borderlg.e72c23a392ed5d5f8f42.webp",
-    "main.96f850e4.css.map": "/gaas/static/css/main.96f850e4.css.map",
-    "main.3417f7cf.js.map": "/gaas/static/js/main.3417f7cf.js.map"
+    "main.css": "/gass/static/css/main.c84db041.css",
+    "main.js": "/gass/static/js/main.30ca7545.js",
+    "static/media/home-banner.png": "/gass/static/media/home-banner.1694d0975ce98d83a0bb.png",
+    "static/media/features.webp": "/gass/static/media/features.01610b92b9e397eceecc.webp",
+    "static/media/home-right.webp": "/gass/static/media/home-right.35ce57191c509855422e.webp",
+    "static/media/trend.webp": "/gass/static/media/trend.69a697daf76dd13a6928.webp",
+    "static/media/impress.webp": "/gass/static/media/impress.47565851eaf4a91bcf54.webp",
+    "static/media/trend-banner.webp": "/gass/static/media/trend-banner.38e02844d3e363b1c5cc.webp",
+    "static/media/feedback.webp": "/gass/static/media/feedback.18601b9dff29fed000dd.webp",
+    "static/media/slick.svg": "/gass/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gass/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gass/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/logo.webp": "/gass/static/media/logo.62980193871dca2d1bd9.webp",
+    "static/media/slick.woff": "/gass/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/xlogo.webp": "/gass/static/media/xlogo.e747f5b7af2f86ed42b2.webp",
+    "static/media/borderxl.webp": "/gass/static/media/borderxl.2c1abbaa4ce8c137003c.webp",
+    "index.html": "/gass/index.html",
+    "static/media/borderlg.webp": "/gass/static/media/borderlg.e72c23a392ed5d5f8f42.webp",
+    "main.c84db041.css.map": "/gass/static/css/main.c84db041.css.map",
+    "main.30ca7545.js.map": "/gass/static/js/main.30ca7545.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f850e4.css",
-    "static/js/main.3417f7cf.js"
+    "static/css/main.c84db041.css",
+    "static/js/main.30ca7545.js"
   ]
 }
