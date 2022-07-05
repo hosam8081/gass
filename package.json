@@ -1,8 +1,8 @@
 {
-  "name": "gaas",
+  "name": "gass",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hosam8081.github.io/gaas",
+  "homepage": "https://hosam8081.github.io/gass",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
